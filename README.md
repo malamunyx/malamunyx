@@ -1,6 +1,5 @@
 - 👋 Hi, I’m <strong>@malamunyx</strong>
-- 👀 I’m interested in guitars, and technology
-- 🌱 I’m currently learning web development (HTML, CSS, JS) through the Odin Project
+- I am currently studying B.Sc(CompSci/SoftDev) at University of Sydney
 
 <!---
 - 💞️ I’m looking to collaborate on ...
