@@ -1,5 +1,5 @@
 - 👋 Hi, I’m <strong>@malamunyx</strong>
-- I am currently studying B.Sc(Computer Science / Software Development) at University of Sydney
+- I am currently studying B.Sc (Computer Science) at University of Sydney
 
 <!---
 - 💞️ I’m looking to collaborate on ...
